@@ -1,7 +1,6 @@
 package main
 
-import "fmt"
-
+/*
 func main() {
 	//counter example 0 .. 10
 	var i int = 0
@@ -9,4 +8,6 @@ func main() {
 		fmt.Println(i)
 		i++
 	}
+
 }
+*/
